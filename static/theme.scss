@@ -1,0 +1,13 @@
+
+@forward '~attractions/_variables' with (
+  $main: #e11444,
+//   $font: "'Open Sans', sans-serif",
+  $font: "Oxygen",
+);
+
+
+
+@font-face {
+    font-family: "Oxygen";
+    src: url("/fonts/Oxygen-Regular.ttf") format("truetype");
+};
